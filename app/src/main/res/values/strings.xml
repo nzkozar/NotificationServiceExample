@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Service Example</string>
+    <string name="notification_service_prefs">com.ak93.serviceexample.notificationservice</string>
+</resources>
